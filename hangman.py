@@ -232,6 +232,7 @@ def hangman_with_hints(secret_word):
 
 
 if __name__ == "__main__":
+    pass
 
     # secret_word = choose_word(wordlist)
     # hangman(secret_word)
